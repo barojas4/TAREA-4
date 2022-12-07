@@ -162,6 +162,84 @@ debe exceder de 100 mA.
 
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/116810935/206087879-7e940705-cfb0-4ed4-9db0-95d464d326a8.png)
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/116810935/206087951-48068327-4b29-4c91-a111-b0f76f3e3930.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+
+![image](https://user-images.githubusercontent.com/116810935/206088032-96c9d74f-8c46-4f9b-b77a-149105ab0734.png)
+
+12. Repita el problema 11 si R2 es de 10 kΩ.
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corrienta través de R4 después del cierre de cada interruptor. 
+
+![image](https://user-images.githubusercontent.com/116810935/206088274-88203e7c-0bc9-4319-99d2-b3c599872c41.png)
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/116810935/206088350-784c584d-a9b8-40fd-8f4c-fc869e6c892b.png)
+
+*18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78. 
+
+![image](https://user-images.githubusercontent.com/116810935/206088519-6e057832-f0c8-48d6-848b-a73bf8581888.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80. 
+
+![image](https://user-images.githubusercontent.com/116810935/206088621-67b28cda-d2ec-4249-ae2d-28197b0d90a7.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+
+![image](https://user-images.githubusercontent.com/116810935/206088669-bcdfc78a-31b2-49f4-bb62-2ef91e44dd42.png)
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R
+en la figura 8-80 cuando R8 = 8 kΩ.
+
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+
+![image](https://user-images.githubusercontent.com/116810935/206088863-87050355-f6fb-481e-a997-cc2c9f012c2b.png)
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga R . Determine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/116810935/206088967-f2998df2-a861-4cfe-98bc-a8e0ab320778.png)
+
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+
+![image](https://user-images.githubusercontent.com/116810935/206089021-2405bb05-e298-4fa2-8d8f-86142855ac83.png)
+
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![image](https://user-images.githubusercontent.com/116810935/206089075-6ba3ffb1-55e4-445f-ae91-2ebb24214166.png)
+
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/116810935/206089151-3a7f03db-91a7-495e-9789-cd4c7ef907c4.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
