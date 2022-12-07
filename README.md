@@ -154,6 +154,13 @@ debe exceder de 100 mA.
 
 ![image](https://user-images.githubusercontent.com/116810935/206087056-829adb9e-fa73-4660-9eee-98101f1efcb7.png)
 
+## Capitulo 8
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes. 
+
+![image](https://user-images.githubusercontent.com/116810935/206087567-c8172f53-04ad-44c2-8759-c961320d6423.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
 
 
