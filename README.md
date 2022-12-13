@@ -82,13 +82,21 @@ caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/116810935/206085330-9971e838-e94a-4ebd-835b-07ade83f880f.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207465890-2c3408a1-3e7b-44f3-886b-e7d750425b7f.png)
+
+
 20. Determine el voltaje, V AB , en la figura 7-69. 
 
 ![image](https://user-images.githubusercontent.com/116810935/206085461-afc0a683-cd3e-4574-b17c-b608f8b351a0.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207467032-2c74e7f1-0181-4957-ad0e-dc5f57145dce.png)
+
+
 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos 
 
 ![image](https://user-images.githubusercontent.com/116810935/206085645-d1dcdf1c-77b9-42a5-804d-da4530b7dd65.png)
+
+
 
 24. Determine el valor de cada resistor mostrado en la figura 7-73.
 
