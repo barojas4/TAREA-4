@@ -75,6 +75,8 @@ caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/116810935/206085255-c2fb12d4-2afa-408c-ab48-e5fae004366c.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207463760-5387858a-b559-411f-8f29-9864db0e84f0.png)
+
 
 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
 
