@@ -52,15 +52,22 @@ En el circuito c) existe una combinación en paralelo de la resistencia R2 y R3 
 
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 
+![image](https://user-images.githubusercontent.com/116810935/207452961-a576cedc-f401-4be1-a91e-41ccc6eb25fd.png)
+
+
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
 caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/116810935/206085140-195ef045-a10d-4a4e-bb9d-68ad0d2014a4.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207462352-72082683-946a-45ca-837b-2a02facb848f.png)
+
 
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
 ![image](https://user-images.githubusercontent.com/116810935/206085185-f3e21027-c0f2-46bf-961a-3e2488f19416.png)
+
+
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
