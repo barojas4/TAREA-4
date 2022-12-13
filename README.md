@@ -67,6 +67,8 @@ caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/116810935/206085185-f3e21027-c0f2-46bf-961a-3e2488f19416.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207462900-08fc07ec-5013-4e43-888c-5e51fbeff9ea.png)
+
 
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
