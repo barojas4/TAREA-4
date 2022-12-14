@@ -103,6 +103,9 @@ caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/116810935/206085708-c0906b03-4938-4acb-a5d9-c19853419532.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207471620-8d0686e6-0d85-4af7-b82d-4eed1d9c243a.png)
+
+
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
 
