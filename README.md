@@ -178,17 +178,28 @@ debe exceder de 100 mA.
 
 ![image](https://user-images.githubusercontent.com/116810935/206086332-9b0c2565-f157-466d-9b19-c759b81797ae.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207744972-e540c347-affd-4797-b3a1-7897b0599cd3.png)
+
+
+
 40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
 
 ![image](https://user-images.githubusercontent.com/116810935/206086419-4a65bb56-a078-4d83-9270-d4e0d72c6442.png)
+
+![image](https://user-images.githubusercontent.com/116810935/207745278-b04f567c-1e2b-4006-bda5-894423761c0b.png)
+
 
 44. Determine V SALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
 
 
 (a) Interruptor SW2 conectado a +12 V y los demás conectados a tierra
 
+![image](https://user-images.githubusercontent.com/116810935/207745388-b8943936-7050-481c-98c8-83a1b5864025.png)
+
 
 (b) Interruptor SW1 conectado a +12 V y los demás conectados a tierra
+
+![image](https://user-images.githubusercontent.com/116810935/207745431-5241cf88-f54f-4734-a5e9-02c9503cd601.png)
 
 ![image](https://user-images.githubusercontent.com/116810935/206086602-82ed87ee-7174-4087-81ef-9876126d3df6.png)
 
