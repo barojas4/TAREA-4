@@ -139,21 +139,39 @@ en cada toma (V1, V2 y V3) para cada posición del interruptor.
 extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no
 debe exceder de 100 mA.
 
+![image](https://user-images.githubusercontent.com/116810935/207742603-c1cd46d7-dcc6-4a0f-bd03-c8e304a429db.png)
 
 
 36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes de intervalo.
 
 (a) 0.5 V 
 
+![image](https://user-images.githubusercontent.com/116810935/207743127-8284347a-0c73-4f01-a8db-f54e96a8156c.png)
+
+
 (b) 1 V 
+
+![image](https://user-images.githubusercontent.com/116810935/207743145-8974f1fb-97eb-4f89-81c6-3f0b4c9c4628.png)
+
 
 (c) 5 V 
 
+![image](https://user-images.githubusercontent.com/116810935/207743161-0641dc4c-6eb4-4fff-ba11-75baa1c7aaa2.png)
+
+
 (d) 50 V 
+
+![image](https://user-images.githubusercontent.com/116810935/207743172-66b105b6-df81-4f5c-841b-b8ea670a8963.png)
+
 
 (e) 100 V 
 
+![image](https://user-images.githubusercontent.com/116810935/207743203-21e64e95-abd3-44a6-89ed-260bcbd100dc.png)
+
+
 (f) 1000 V
+
+![image](https://user-images.githubusercontent.com/116810935/207743229-36f2bfda-f9e0-4a19-b275-cb408dca3deb.png)
 
 
 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuitode la figura 7-62(b).
