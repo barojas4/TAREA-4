@@ -217,16 +217,21 @@ debe exceder de 100 mA.
 
 ![image](https://user-images.githubusercontent.com/116810935/206086908-23b1c880-a49f-453e-9554-3775190a0537.png)
 
-
+Las dos mediciones son correcta
 
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
 
 ![image](https://user-images.githubusercontent.com/116810935/206086979-2b41eb7d-e3c8-4bce-8b6b-2b5f6e6f556f.png)
 
+El multimetro que mide 81.8 es inocorrecta
+
 54. Si en la figura 7-89 R 2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
 ![image](https://user-images.githubusercontent.com/116810935/206087056-829adb9e-fa73-4660-9eee-98101f1efcb7.png)
+
+![image](https://user-images.githubusercontent.com/116810935/207746984-92f2f634-a33e-4c4b-bfb0-a597fc290a19.png)
+
 
 ## Capitulo 8
 
@@ -234,11 +239,19 @@ debe exceder de 100 mA.
 
 ![image](https://user-images.githubusercontent.com/116810935/206087567-c8172f53-04ad-44c2-8759-c961320d6423.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207747718-69529caa-445f-4138-981a-d60dd7915ad1.png)
+
+
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+![image](https://user-images.githubusercontent.com/116810935/207747991-db3eb18d-c91d-4941-9075-681403875839.png)
+
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
 ![image](https://user-images.githubusercontent.com/116810935/206087879-7e940705-cfb0-4ed4-9db0-95d464d326a8.png)
+
+
 
 8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
 
