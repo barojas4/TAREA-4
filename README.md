@@ -18,6 +18,28 @@ Determinar la solucion de problemas que implique la aplicacion de la ley de Ohm 
 
 ## 2.Marco Teorico (Resumen)
 
+![7 - 8_page-0001](https://user-images.githubusercontent.com/116810935/207767432-31b76a9e-950a-4467-974d-5a26894ada9c.jpg)
+
+![7 - 8_page-0002](https://user-images.githubusercontent.com/116810935/207767442-9f65bf1c-8c3b-46e7-9b32-ece61e72f228.jpg)
+
+![7 - 8_page-0003](https://user-images.githubusercontent.com/116810935/207767456-969e6ad2-d798-4ef8-9842-2a2d7fd8b09e.jpg)
+
+![7 - 8_page-0004](https://user-images.githubusercontent.com/116810935/207767471-9fe49951-14d2-4623-add7-1eb04fd114ef.jpg)
+
+
+![7 - 8_page-0005](https://user-images.githubusercontent.com/116810935/207767488-7ebe1e7a-7a22-489b-9303-758e5b9ed979.jpg)
+
+![7 - 8_page-0006](https://user-images.githubusercontent.com/116810935/207767497-55fe3409-db00-4133-9209-b71071a9eee5.jpg)
+
+![7 - 8_page-0007](https://user-images.githubusercontent.com/116810935/207767506-5fe0066d-abf0-43bc-96b7-819fe10765ed.jpg)
+
+![7 - 8_page-0008](https://user-images.githubusercontent.com/116810935/207767514-5297bf9b-d32e-4a9d-b14c-ff1b22c4810c.jpg)
+
+
+![7 - 8_page-0009](https://user-images.githubusercontent.com/116810935/207767531-b7448765-bb64-46ea-86cb-bde47a525cf5.jpg)
+
+![7 - 8_page-0010](https://user-images.githubusercontent.com/116810935/207767541-9c9afeaf-3eb9-452f-814a-0a481e2c5d75.jpg)
+
 
 ## 3. Explicación y resolucion de ejercicios 
 
