@@ -205,12 +205,19 @@ debe exceder de 100 mA.
 
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: R V = 18 kÆ y R2/R 4 = 0.02. ¿Cuál es R ? X
 
+![image](https://user-images.githubusercontent.com/116810935/207745834-1578508f-03c9-46d5-a228-f93237baa579.png)
+
 
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60 o C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
+
+![image](https://user-images.githubusercontent.com/116810935/207746131-0133422c-30c1-46f0-874c-069e013668ea.png)
+
 
 50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
 
 ![image](https://user-images.githubusercontent.com/116810935/206086908-23b1c880-a49f-453e-9554-3775190a0537.png)
+
+
 
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
