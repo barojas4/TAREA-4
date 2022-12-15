@@ -109,9 +109,15 @@ caída de voltaje.
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
 
+![image](https://user-images.githubusercontent.com/116810935/207741328-0b749bdd-3259-4dba-a166-712112f52987.png)
+
+
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?
 
 ![image](https://user-images.githubusercontent.com/116810935/206085881-18a2c6ef-0e7a-402c-8e63-a34d080dacaf.png)
+
+![image](https://user-images.githubusercontent.com/116810935/207741367-412469c3-323a-431d-a875-bc4f153e442d.png)
+
 
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de
 salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
