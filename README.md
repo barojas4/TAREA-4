@@ -280,11 +280,13 @@ b) La corriente a través de Ri por medio de los 40 v es 0
 ![image](https://user-images.githubusercontent.com/116810935/207764702-180872a4-1d35-4648-99aa-a21b033746ec.png)
 
 
-![image](https://user-images.githubusercontent.com/116810935/207764767-848b0956-f3d4-4383-94dc-01a42f8aca89.png)
+
 
 16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
 
 ![image](https://user-images.githubusercontent.com/116810935/206088350-784c584d-a9b8-40fd-8f4c-fc869e6c892b.png)
+
+![image](https://user-images.githubusercontent.com/116810935/207764767-848b0956-f3d4-4383-94dc-01a42f8aca89.png)
 
 
 *18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78. 
