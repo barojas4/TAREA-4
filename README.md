@@ -124,14 +124,22 @@ salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
 
 ![image](https://user-images.githubusercontent.com/116810935/206085960-e6a41acf-cb11-418c-a646-051513d772fe.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207741765-7e9998e7-2598-4966-950b-d2d45b7912f7.png)
+
+
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje
 en cada toma (V1, V2 y V3) para cada posición del interruptor.
 
 ![image](https://user-images.githubusercontent.com/116810935/206086050-adc94ef0-0740-4e50-a54a-2736916a1243.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207741815-04a6a6e3-1e18-47b7-905f-b4bdebb93c3f.png)
+
+
 34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los
 extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no
 debe exceder de 100 mA.
+
+
 
 36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes de intervalo.
 
