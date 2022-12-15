@@ -247,30 +247,45 @@ El multimetro que mide 81.8 es inocorrecta
 ![image](https://user-images.githubusercontent.com/116810935/207747991-db3eb18d-c91d-4941-9075-681403875839.png)
 
 
+
+
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
 ![image](https://user-images.githubusercontent.com/116810935/206087879-7e940705-cfb0-4ed4-9db0-95d464d326a8.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207763821-4c7ec45d-48b0-44dc-80fc-cb23f7c81029.png)
 
 
 8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
 
 ![image](https://user-images.githubusercontent.com/116810935/206087951-48068327-4b29-4c91-a111-b0f76f3e3930.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207764393-5ab01322-6bce-477c-ae13-74fd3b21e4de.png)
+
+
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
 
 
 ![image](https://user-images.githubusercontent.com/116810935/206088032-96c9d74f-8c46-4f9b-b77a-149105ab0734.png)
 
+a) La corriente de Ri es 0
+
+b) La corriente a través de Ri por medio de los 40 v es 0 
+
+![image](https://user-images.githubusercontent.com/116810935/207764676-733af94e-6b59-4dfe-b71f-503502733f9f.png)
+
+
 12. Repita el problema 11 si R2 es de 10 kΩ.
 
-14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corrienta través de R4 después del cierre de cada interruptor. 
+![image](https://user-images.githubusercontent.com/116810935/207764702-180872a4-1d35-4648-99aa-a21b033746ec.png)
 
-![image](https://user-images.githubusercontent.com/116810935/206088274-88203e7c-0bc9-4319-99d2-b3c599872c41.png)
+
+![image](https://user-images.githubusercontent.com/116810935/207764767-848b0956-f3d4-4383-94dc-01a42f8aca89.png)
 
 16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
 
 ![image](https://user-images.githubusercontent.com/116810935/206088350-784c584d-a9b8-40fd-8f4c-fc869e6c892b.png)
+
 
 *18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78. 
 
