@@ -293,19 +293,33 @@ b) La corriente a través de Ri por medio de los 40 v es 0
 
 ![image](https://user-images.githubusercontent.com/116810935/206088519-6e057832-f0c8-48d6-848b-a73bf8581888.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207765351-e55445e5-159e-4427-9e95-bcde0e347cef.png)
+
+
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80. 
 
 ![image](https://user-images.githubusercontent.com/116810935/206088621-67b28cda-d2ec-4249-ae2d-28197b0d90a7.png)
+
+![image](https://user-images.githubusercontent.com/116810935/207765546-e7d79677-52f9-4168-947b-ead8999241dc.png)
+
 
 22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
 
 
 ![image](https://user-images.githubusercontent.com/116810935/206088669-bcdfc78a-31b2-49f4-bb62-2ef91e44dd42.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207766071-7bae550a-e9f6-4b24-8f2f-b413aeb6629a.png)
+
+
 24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/116810935/207766487-a2a37e15-f0dd-48bd-8c96-3a6344fd510b.png)
+
 
 26. Con el teorema de Norton, determine la corriente que circula a través de R
 en la figura 8-80 cuando R8 = 8 kΩ.
+
+![image](https://user-images.githubusercontent.com/116810935/207766556-70c23e93-701c-47a5-8de2-b5e8e64f7c37.png)
 
 
 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
@@ -313,9 +327,13 @@ en la figura 8-80 cuando R8 = 8 kΩ.
 
 ![image](https://user-images.githubusercontent.com/116810935/206088863-87050355-f6fb-481e-a997-cc2c9f012c2b.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207766607-7a66206e-61d1-4b64-bf49-0019f34fa850.png)
+
 30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga R . Determine el valor apropiado de RL en cada caso.
 
 ![image](https://user-images.githubusercontent.com/116810935/206088967-f2998df2-a861-4cfe-98bc-a8e0ab320778.png)
+
+![image](https://user-images.githubusercontent.com/116810935/207766789-c8fa264f-754a-4cd8-b7a5-e6cd434210ee.png)
 
 
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
@@ -323,41 +341,13 @@ en la figura 8-80 cuando R8 = 8 kΩ.
 
 ![image](https://user-images.githubusercontent.com/116810935/206089021-2405bb05-e298-4fa2-8d8f-86142855ac83.png)
 
+![image](https://user-images.githubusercontent.com/116810935/207766902-5d04a754-3564-4f54-b1ff-b2fe294e7c5f.png)
 
 34. En la figura 8-88, convierta cada red delta en una red Y.
 
 ![image](https://user-images.githubusercontent.com/116810935/206089075-6ba3ffb1-55e4-445f-ae91-2ebb24214166.png)
 
-
-36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
-
-![image](https://user-images.githubusercontent.com/116810935/206089151-3a7f03db-91a7-495e-9789-cd4c7ef907c4.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/116810935/207767113-11027d66-c3a2-4dbd-a901-fb609911a873.png)
 
 
 
