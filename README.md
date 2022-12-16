@@ -375,7 +375,7 @@ en la figura 8-80 cuando R8 = 8 kΩ.
 
 ## 4. Video
  
- link del video: https://www.youtube.com/watch?v=S2la1igGjh8
+ https://studio.youtube.com/video/ijrFmezYT9I/edit
  
  ## 5.Conlusión 
  
