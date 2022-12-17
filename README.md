@@ -15,7 +15,7 @@ Analizar la diferencia que exite entre el circuito en serie y paralelo, asi como
 
 * Objetivos especificos
 
-Determinar la solucion de problemas que implique la aplicación de conceptps como ley de omh resistencias en paralelo leyes de Kirchoff
+Determinar la solucion de problemas que implique la aplicación de conceptos como ley de omh resistencias en paralelo leyes de Kirchoff
 
 ## 2.Marco Teorico (Resumen)
 
