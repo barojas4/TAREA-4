@@ -9,12 +9,11 @@ MATERIA: Fundamentos de Circuitos Electricos
 
 * Objetivo General
 
-Analizar la teoria de la ley de  Ohm y la ley watt para poder resolver problemas de circuitos en serie o paralelos, tambien evidenciar nuevos conceptos como potencia y energia. 
-
+Analizar la diferencia que exite entre el circuito en serie y paralelo, asi como las caracteristicas de cada uno.
 
 * Objetivos especificos
 
-Determinar la solucion de problemas que implique la aplicacion de la ley de Ohm asi como la ley de watt en donde se tiene que tener definido bien los conceptos de resistecias, corriente, voltaje entre otros conceptos.
+Determinar la solucion de problemas que implique la aplicación de conceptps como ley de omh resistencias en paralelo leyes de Kirchoff
 
 ## 2.Marco Teorico (Resumen)
 
@@ -64,7 +63,6 @@ En el circuito b) R1 está en serie con la combinacion R2, R3 y R4
 
 En el circuito c) existe una combinación en paralelo de la resistencia R2 y R3 con la combinación en paralelo R4 y R5
 
-## 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
 
 
@@ -375,11 +373,11 @@ en la figura 8-80 cuando R8 = 8 kΩ.
 
 ## 4. Video
  
- https://studio.youtube.com/video/ijrFmezYT9I/edit
+ https://www.youtube.com/watch?v=ijrFmezYT9I
  
  ## 5.Conlusión 
  
- * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la ley de Ohm sirve para encontrar ya sea intensidad de corriente electrica, voltaje o resistencia tambien es posible evidenciar la relacion de la ley de watt para encontrar nuevos conceptos como potencia y enerigia.
+ * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que las caracteristicas de cada circuito en serie y en paralelo, tambien se entinde que para resolver circuitos en paralelo no es lo mismo que en circuito en serie. 
   
 * Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró definir formulas muy importantes.
 
